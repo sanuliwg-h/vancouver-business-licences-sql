@@ -1,4 +1,4 @@
-# Vancouver Business Licences: A SQL Analysis
+# Vancouver Business Licences: A SQL Analysis (🚧 Work in progress)
 
 **Question:** What do business licences in the City of Vancouver reveal about which types of businesses are growing, where they are located, and how long they last?
 
